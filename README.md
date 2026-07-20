@@ -168,8 +168,8 @@ Production-first architecture with predictable behavior.
 - [x] Market Research
 - [x] Product Vision
 - [x] RFC-0001
-- [ ] RFC-0002 Architecture
-- [ ] RFC-0003 Interfaces
+- [X] RFC-0002 Architecture
+- [X] RFC-0003 Interfaces
 
 ---
 
